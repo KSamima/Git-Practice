@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //commit A
         //commit B
-
+        //commit C
         //commit d
     }
 }
