@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         //commit C
         //commit d
         //commit f
+        //commit g
+        //commit h
     }
 }
